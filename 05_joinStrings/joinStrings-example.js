@@ -5,6 +5,7 @@ const lastName = "Stevenson";
 
 const greeting = "Hello! My name is " + firstName + " " + lastName + " and I am " + (thisYear - birthYear) + " years old.";
 
+
 console.log(greeting);
 
 module.exports = {
